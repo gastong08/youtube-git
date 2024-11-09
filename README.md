@@ -2,4 +2,4 @@
 
 Hola estoy dando mis primeros pasos
 
-Agragando mas contenido al _README_
+Agragando más contenido al _README.md_

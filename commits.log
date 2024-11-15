@@ -1,0 +1,155 @@
+commit 1f39342ac17ba746e2a6a1bd3aa7fa104b612d6e
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Thu Nov 14 17:28:33 2024 -0300
+
+    agregando dos parrafos
+
+commit 8b921a519b76a650b59c71d223aad70842408248
+Merge: af29604 a85c5d5
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Thu Nov 14 17:26:12 2024 -0300
+
+    Resolviendo conflicto en estaciones del año y fechs de inicio
+
+commit af296042693744b72d71a7c0707415983d55ea0e
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Thu Nov 14 11:59:08 2024 -0300
+
+    agregando actualizaciones del año con fechas de inicio
+
+commit a85c5d5f436e42fdcfee8f39b34da803bd1baec0
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Thu Nov 14 11:59:08 2024 -0300
+
+    agregando las estaciones del año
+
+commit 23184f29d0d603d352a58f3519a3f161dd36ab9d
+Merge: 19b42f5 483363a
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Thu Nov 14 11:42:26 2024 -0300
+
+    resolviendo conflicto merge main html en el documento index.html
+
+commit 483363a251590e628b1f620889e28436a370df71
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Mon Nov 11 18:56:09 2024 -0300
+
+    Agregando index.js al index.html
+
+commit 19b42f59efc61d75010060a0358d20c63f21a1ca
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Mon Nov 11 18:45:39 2024 -0300
+
+    Agregando style .css al index. html
+
+commit 1e4c0ac64eed1c581ba15f4aa826e4d8578c722d
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Mon Nov 11 17:30:49 2024 -0300
+
+    Descripción de los cambios en style.css
+
+commit 6fbc25153e3d557547d72c611ce25a5515919593
+Merge: 74cf82a 0394fff
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Mon Nov 11 17:28:05 2024 -0300
+
+    Finalización del merge y resolución de conflictos
+
+commit 0394fff849b56a3a6a49c4226cdcc1a13682d21e
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Mon Nov 11 17:05:50 2024 -0300
+
+    Creando index.js
+
+commit 74cf82a363ca9d60e82756f33d6c3e98527993a3
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Mon Nov 11 16:55:10 2024 -0300
+
+    creando style .css
+
+commit f332c4a562fc5a60c899530ebc5310bb7e7b0ef3
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Mon Nov 11 16:47:59 2024 -0300
+
+    creando index.html
+
+commit 434a0a57c5aecca5630d2e941dffaf52cec3a723
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Mon Nov 11 15:46:50 2024 -0300
+
+    si funciona
+
+commit 724937860cf7cea0846d49c593283978b847a8bf
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Mon Nov 11 15:24:51 2024 -0300
+
+    a ver si funciona lo que hicimos
+
+commit d0bc0fa1f507d06487647eb1809c88aa942dc377
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Sat Nov 9 13:49:06 2024 -0300
+
+    ignorando archivos .exe
+
+commit ad248bae17d38fc578a184abbf4ff3c671836eba
+Merge: 01813ba ae3be79
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Sat Nov 9 13:22:29 2024 -0300
+
+    Merge branch 'main' of https://github.com/gastong08/youtube-git
+
+commit 01813ba6dc83c7681ca9e673e362774823a3ab87
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Sat Nov 9 13:20:16 2024 -0300
+
+    entendiendo el flujo
+
+commit ae3be793ae310be672c6325a96d23ce883418329
+Author: gastong08 <gastong1940@gmail.com>
+Date:   Sat Nov 9 13:13:35 2024 -0300
+
+    Update README.md
+
+commit 03af568938297d224d64ab66b7d12549186bbffe
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Sat Nov 9 13:12:46 2024 -0300
+
+    entendiendo el
+
+commit 58976dd301d3c8e5eefd8c4c06ff4c8904c661a2
+Author: gastong08 <gastong1940@gmail.com>
+Date:   Sat Nov 9 13:03:33 2024 -0300
+
+    Creando Licencia del repositorio
+    
+    La siguiente licencia se enmarca en el contexto del aprendizaje de el curso de git en internet.
+
+commit 72a247b6ce4ee2a94df6325b9e62723765d3a74b
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Sat Nov 9 12:45:58 2024 -0300
+
+    Inicio
+
+commit 0fabd5703a8b333bd330bd5f187786a6b5933f43
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Sat Nov 9 12:31:29 2024 -0300
+
+    agregando mas contenido al readme.md
+
+commit d1c977efa7d7f927d7e328d461dbe24193cf4100
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Sat Nov 9 12:19:00 2024 -0300
+
+    Agregando más contenido al README
+
+commit 4eb5ffcc0073e9efff91a553ddd28ba97525ce11
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Sat Nov 9 12:03:46 2024 -0300
+
+    agregando contenido inicial al README
+
+commit 9f0df8c7d426a589b65403fbba4665c08ac4ff57
+Author: Gaston Guevara <gastong1940@gmail.com>
+Date:   Sat Nov 9 11:53:21 2024 -0300
+
+    Primer commit

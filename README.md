@@ -11,3 +11,5 @@ Entendiendo el flujo básico de _Git_ y _Git Hub_
 A ver si funciona lo que hicimos
 
 Si funciona 🙂
+
+Este commit es para oficializaer nuestra versión **1.0.0**.

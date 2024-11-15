@@ -1,3 +1,17 @@
 html {
   background-color: black color white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+a {
+  color: blueviolet;
+}
+
+a:hover {
+  color: blue;
+}
+
+img {
+  max-width: 100%;
 }
